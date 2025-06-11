@@ -1,0 +1,26 @@
+# Dataset sementara (hapus saat ingin dimasukkan ulang pakai Git LFS)
+# data/augmented/bisindo/
+# data/augmented/sibi/
+# data/raw/bisindo/
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Node
+node_modules/
+.next/
+dist/
+
+# Env dan logs
+.env    
+*.log
+myenv/
+
+# Mac/Linux/VSCode
+.DS_Store
+.vscode/
+
+# Virtual Environment
+venv/
